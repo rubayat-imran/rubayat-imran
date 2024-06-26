@@ -1,6 +1,6 @@
 # Rubayat Al Imran
 
-# Sr. Frontend Engineer | React developer | CRO & A/B Testing
+### Sr. Frontend Engineer | React developer | CRO & A/B Testing
 
 ### Hi there 👋
 I am an experienced front-end developer and an Optimizely-certified CRO (A/B testing) expert passionate about writing high-quality code and delivering bug-free tests. 
