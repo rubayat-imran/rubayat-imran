@@ -12,10 +12,15 @@ Over the past 3+ years, I've specialized in Conversion Rate Optimization (CRO) a
 A/B testing tools I use regularly:
 
 ☑ Optimizely
+
 ☑ ABLyft
+
 ☑ Convert
+
 ☑ AB Tasty
+
 ☑ Adobe Target
+
 ☑ Kameleoon
 
 Looking for projects involving:
