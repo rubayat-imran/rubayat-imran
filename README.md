@@ -1,5 +1,6 @@
 # Rubayat Al Imran
-## Sr. Frontend Engineer | React developer | CRO & A/B Testing
+
+# Sr. Frontend Engineer | React developer | CRO & A/B Testing
 
 ### Hi there 👋
 I am an experienced front-end developer and an Optimizely-certified CRO (A/B testing) expert passionate about writing high-quality code and delivering bug-free tests. 
@@ -10,17 +11,17 @@ Over the past 3+ years, I've specialized in Conversion Rate Optimization (CRO) a
 
 A/B testing tools I use regularly:
 
-- ☑ Optimizely
-- ☑ ABLyft
-- ☑ Convert
-- ☑ AB Tasty
-- ☑ Adobe Target
-- ☑ Kameleoon
+☑ Optimizely
+☑ ABLyft
+☑ Convert
+☑ AB Tasty
+☑ Adobe Target
+☑ Kameleoon
 
 Looking for projects involving:
 
-- ✅ Frontend Development: HTML, CSS, JavaScript, React
-- ✅ A/B Testing and CRO Strategy: Optimizely, AB Tasty, Convert, and more
+✅ Frontend Development: HTML, CSS, JavaScript, React
+✅ A/B Testing and CRO Strategy: Optimizely, AB Tasty, Convert, and more
 
 
 To learn more about my work, visit my portfolio website at "https://rubayat-imran.github.io"
