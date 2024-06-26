@@ -26,6 +26,7 @@ A/B testing tools I use regularly:
 Looking for projects involving:
 
 ✅ Frontend Development: HTML, CSS, JavaScript, React
+
 ✅ A/B Testing and CRO Strategy: Optimizely, AB Tasty, Convert, and more
 
 
